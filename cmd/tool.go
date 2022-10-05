@@ -5,7 +5,7 @@ import (
 	"github.com/spf13/viper"
 	"log"
 
-	"github.com/charlieegan3/twitter-rss/pkg/tool"
+	"github.com/charlieegan3/tool-twitter-rss/pkg/tool"
 )
 
 func main() {

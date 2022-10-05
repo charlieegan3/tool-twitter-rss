@@ -45,6 +45,8 @@ github.com/cenkalti/backoff/v4 v4.1.3/go.mod h1:scbssz8iZGpm3xbr14ovlUdkxfGXNInq
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/charlieegan3/toolbelt v0.0.0-20221003074005-394a3439ad94 h1:5FMG4Ke32w5pB81vQnsYW2mhWG5FiDHvOLwhg02PNwM=
 github.com/charlieegan3/toolbelt v0.0.0-20221003074005-394a3439ad94/go.mod h1:GHRnkuy/gW44uvXKFaj7y3iBT+W/BPqrqoDMdoU1Hn4=
+github.com/charlieegan3/twitter-rss v0.0.0-20221005081600-30402e99757d h1:ZeanEFmf8kGyPsANOaC6UCRo74nXrj6R7mznqhRJnR0=
+github.com/charlieegan3/twitter-rss v0.0.0-20221005081600-30402e99757d/go.mod h1:qabkk4MDBvUriZQfjAIsiLmJ71ZpzqhD32826VJ1Gl4=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
