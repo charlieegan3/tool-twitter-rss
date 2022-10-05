@@ -17,7 +17,7 @@ type TwitterRSS struct {
 }
 
 func (t *TwitterRSS) Name() string {
-	return "activities-rss"
+	return "twitter-rss"
 }
 
 func (t *TwitterRSS) FeatureSet() apis.FeatureSet {
