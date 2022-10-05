@@ -1,4 +1,4 @@
-# twitter-rss
+# tool-twitter-rss
 
 This is a tool for [toolbelt](https://github.com/charlieegan3/toolbelt) which collects tweets for the previous day and
 generates an RSS feed item using [webhook-rss](https://github.com/charlieegan3/tool-webhook-rss) deployed to the same
