@@ -80,6 +80,7 @@ func (t *TwitterRSS) Jobs() ([]apis.Job, error) {
 		},
 	}, nil
 }
+func (t *TwitterRSS) ExternalJobsFuncSet(f func(job apis.ExternalJob) error) {}
 
 func (t *TwitterRSS) DatabaseMigrations() (*embed.FS, string, error) {
 	return &embed.FS{}, "migrations", nil

@@ -4,8 +4,7 @@ go 1.19
 
 require (
 	github.com/Jeffail/gabs/v2 v2.6.1
-	github.com/charlieegan3/toolbelt v0.0.0-20221003074005-394a3439ad94
-	github.com/charlieegan3/twitter-rss v0.0.0-20221005081600-30402e99757d
+	github.com/charlieegan3/toolbelt v0.0.0-20221012131106-c0a8a7937c75
 	github.com/dghubble/go-twitter v0.0.0-20220816163853-8a0df96f1e6d
 	github.com/dghubble/oauth1 v0.7.1
 	github.com/gorilla/mux v1.8.0
