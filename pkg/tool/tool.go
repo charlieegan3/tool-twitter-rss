@@ -87,4 +87,5 @@ func (t *TwitterRSS) DatabaseMigrations() (*embed.FS, string, error) {
 }
 func (t *TwitterRSS) DatabaseSet(db *sql.DB)              {}
 func (t *TwitterRSS) HTTPPath() string                    { return "" }
+func (t *TwitterRSS) HTTPHost() string                    { return "" }
 func (t *TwitterRSS) HTTPAttach(router *mux.Router) error { return nil }
